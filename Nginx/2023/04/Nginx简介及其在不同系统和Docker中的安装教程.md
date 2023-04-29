@@ -28,6 +28,9 @@ Nginx可以应用于多种场景，包括但不限于：
 1. 打开终端，执行下面的命令更新软件包列表并安装Nginx：
 
     ```sh
+    # 添加Nginx存储库
+    sudo dnf install epel-release
+    # 安装Nginx
     sudo dnf install nginx -y
     ```
 
