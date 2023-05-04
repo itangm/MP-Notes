@@ -16,6 +16,8 @@
 1. 安装完成后，`Node.js`会默认将可执行文件添加到环境变量`PATH`中，可以在命令行中直接使用。
 2. 打开CMD或Windows PowerShell工具，输入`node -v`能看到输出信息即可。
 
+  ![](./images/nodev-npmv-check.png)
+
 ## Alma Linux 8
 
 ### 方式1 - 在线安装
@@ -117,3 +119,5 @@ npm install -g cnpm --registry=https://registry.npm.taobao.org
 ```bash
 npm install -g pnpm
 ```
+
+![](./images/pnpm-install.png)
