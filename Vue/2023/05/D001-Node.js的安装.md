@@ -118,6 +118,7 @@ npm install -g cnpm --registry=https://registry.npm.taobao.org
 
 ```bash
 npm install -g pnpm
+pnpm -v
 ```
 
 ![](./images/pnpm-install.png)
