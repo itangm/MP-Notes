@@ -1,0 +1,31 @@
+## MinIO是什么？
+
+[toc]
+
+在之前的笔记中写到了[MinIO最后一个可免费商用的版本](https://mp.weixin.qq.com/s?__biz=Mzg3OTg3ODMzMQ==&mid=2247483904&idx=1&sn=26a13674126fa4b3d0cb9a0d0f7fa4c9&chksm=cf7c8bd4f80b02c23e1dba58e4357bd7421bf22bd815d0457a165b7093c29ef3886a45f68564&token=1845799665&lang=zh_CN#rd)可能有同学还不是很清楚`MinIO`是什么，下面我简单树立了下`MinIO`是什么以及特点。
+
+## 定义
+
+`MinIO`是一个在`GNU AGPL v3`下100%开源的对象存储服务的软件。它兼容亚马逊S3云存储服务接口，非常适合存储大容量非结构化的数据，例如图片、视频、日志文件、备份数据等等。而一个对象文件可以是任意大小、从几KB到最大5TB不等。
+
+## 官网
+
+http://minio.org.cn/，官方是支持中文的，这一点非常的友好。
+
+## MinIO的特点
+
+1. **高性能：**`MinIO`支持一个对象文件可以为任意大小、从几KB到最大5TB不等；
+2. **可扩展：**`MinIO`支持集群部署；
+3. **云原生：**支持容器部署，可基于K8s的编排；
+4. **Amazon S3兼容**
+5. **SDK丰富：**支持Java、Go、Python、Javascript等常见语言；
+6. **有Web管理页面：**可以通过浏览器登录系统，完成桶的管理和文件管理，非常的方便。
+7. **简单：**部署简单、入门简单。
+7. ...
+
+## 对象存储服务
+
+我们看下阿里云OSS的定义：对象存储服务（Object Storage Servie，OSS）是一种海量、低成本、高可靠的云储存服务、适合存放任意类型的文件。
+
+https://www.wenjiangs.com/docs/minio
+
