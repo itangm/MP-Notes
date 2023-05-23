@@ -20,27 +20,27 @@
 
 在控制台，如果我们不创建桶直接进行文件上传的话，MinIO会提示错误信息`Please choose a bucket before trying to upload files.`。所以必须要先创建一个桶。
 
-![](./images/03-uploading-no-choose-bucket.png)
+![](./images/04-uploading-no-choose-bucket.png)
 
 ### 1、桶的创建
 
 通过右下侧的按钮可以很容易创建一个存储桶。
 
-![](./images/03-create-bucket.png)
+![](./images/04-create-bucket.png)
 
 ### 2、桶的查询
 
 左侧列表展示了所有的桶
 
-![](./images/03-bucket-list.png)
+![](./images/04-bucket-list.png)
 
 ### 3、策略控制
 
 对于每个桶都可以设定三种操作策略：只读、只写和读写。
 
-![](./images/03-bucket-edit-policy-1.png)
+![](./images/04-bucket-edit-policy-1.png)
 
-![](./images/03-bucket-edit-policy-2.png)
+![](./images/04-bucket-edit-policy-2.png)
 
 1. 任意策略
 
@@ -50,5 +50,4 @@
 
   比如输入`d`则表示只允许访问资源名称`d`开头的。
 
-
-
+需要注意的是，默认策略是为空的，代表所有的资源都不可以被访问（指的是不可以不带签名直接访问），如果要求这个存储桶可以被公开读的话，需要配置`prefix=*`，`value=Read`。
