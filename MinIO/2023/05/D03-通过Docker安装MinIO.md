@@ -1,5 +1,7 @@
 # 通过Docker安装MinIO
 
+[toc]
+
 在[MinIO的安装](./02-MinIO%E7%9A%84%E5%AE%89%E8%A3%85.md)都是宿主机直接安装的，本篇笔记主要记录的是Docker、Docker-Compose的安装。
 
 ## 前提条件
