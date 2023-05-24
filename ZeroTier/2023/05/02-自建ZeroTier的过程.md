@@ -10,6 +10,17 @@
 * 安装Docker
 
 
+https://shiruixuan.gitee.io/2022/09/16/docker-zerotier-planet/#2%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%87%AA%E5%BB%BAPLANET-%E6%9C%8D%E5%8A%A1%E5%99%A8
+
+https://blog.03k.org/post/zerotier-moon-ui.html
+
+https://github.com/LoganJinDev/zerotier-planet-moon
+
+https://www.appinn.com/zerotier-planet-server-docker-install/
+
+https://zhuanlan.zhihu.com/p/605544905
+
+https://www.jinjun.top/444.html
 
 
 
