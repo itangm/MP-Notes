@@ -6,7 +6,7 @@
 
 `Power Toys`是微软为Windows系统推出的一系列免费实用小工具合集。自从微软重金收购`GitHub`之后，微软的对开源是越来越重视了，发布了`Visual Studio Code`、`Windows Terminal`、`Linux SubSystem`等。
 
-![](./images/001-PowerToys-1.jpg)
+![](./images/000-PowerToys-1.jpg)
 
 ## 下载地址
 
@@ -29,7 +29,7 @@
 
 官方介绍地址在这：`https://learn.microsoft.com/zh-cn/windows/powertoys/`。简单来讲呢就是，这是官方提供的外挂程序，可以调教自己的Windows系统，让Windows系统更好好用。而且可在主界面里选择启用/设置某款小工具，目前新版本支持了中文了。
 
-![](./images/001-PowerToys-Main.png)
+![](./images/000-PowerToys-Main.png)
 
 下面挑一些个人比较常用的小工具介绍下。
 
@@ -37,13 +37,13 @@
 
 `Text Extractor`类似于开源OCR软件`Umi-OCR`，可以直接截图并识别出其中的文本，并将内容放在剪切板上。默认的快捷键是`Win+Shift+T`同时按下，然后就是正常的截图操作了。
 
-![](./images/001-PowerToys-Text-Extractor.gif)
+![](./images/000-PowerToys-Text-Extractor.gif)
 
 ## ColorPicker（颜色选择器）
 
 `ColorPicker`是一款小巧的屏幕取色工具，只需要按下快捷键`Win+Shift+C`即可调用颜色选择器。我们只需要移动鼠标指针到希望取色的位置，他就能自动读取屏幕上该座标的颜色值。
 
-![](./images/001-PowerToys-Color-Picker.gif)
+![](./images/000-PowerToys-Color-Picker.gif)
 
 根据厉害的是，它可以使用【鼠标滑轮】调出放大镜进行取色，意思就是说可以将鼠标所在位置放大，达到精确取值。
 
@@ -55,13 +55,13 @@
 
 `File Locksmith`是一款文件占用解锁工具，类似于`Unlocker`工具，只需要选择某个文件鼠标右键后选中【使用此文件的进程】，该工具立即查看到底是什么程序（进程）一直占用着该文件，同时还很方便的【结束任务】来解锁文件。
 
-![](./images/001-PowerToys-LockSmith.png)
+![](./images/000-PowerToys-LockSmith.png)
 
 ## Host文件编辑器
 
 如果我们经常要修改Windows系统**Hosts**文件的需求，那现在PowerToys提供了可视化的操作，方便了我们新增、修改和删除Hosts的内容。
 
-![](./images/001-PowerToys-Hosts-Editor.png)
+![](./images/000-PowerToys-Hosts-Editor.png)
 
 ## 其它小工具
 
