@@ -39,8 +39,14 @@
 3. `VMware Player`
 
   适用于WIndows和Linux操作系统的**免费**虚拟化软件，功能相对较少，不能自定义网络。
+  
+  针对个人推荐优先`VMware Player`，因为其无需破解、无需激活、无需注册码，非常省事，无需想办法如何白嫖`VMware Workstation`。
 
-如果是简单使用的话，推荐优先`VMware Player`，无需想办法如何白嫖`VMware Workstation`。
+## `VMware Player`的历史
+
+2008年6月6日，`VMware`发布了`VMware Player 1.0`，功能较`VMware Workstation`简单，但独立于`VMware Workstation`之外。
+
+2015年，`VMware Workstation`发布12版，`VMware Player`转型为`VMware Workstation`的免费版并更名为`VMware Workstation Player`，`VMware Workstation`的付费版更名为`VMware Workstation Pro`。
 
 ## 相对企业
 

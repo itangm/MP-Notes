@@ -13,9 +13,10 @@
 ### 下载地址
 
 * 官方的下载地址为`https://download3.vmware.com/software/WKST-1700-WIN/VMware-workstation-full-17.0.0-20800274.exe`。
-* 阿里网盘共享的分别为16、17的VMware下载地址。
+* 阿里网盘：`https://www.aliyundrive.com/s/QRP6VEKzdAJ`
+
+
 
 [VMware 17 下载安装及永久激活使用教程 - 嘿笨笨熊 - 博客园 (cnblogs.com)](https://www.cnblogs.com/hellogmy/p/17253041.html)
 
-[VMware Workstation 17.0 Pro Unlocker & OEM BIOS for Windows & Linux - sysin | SYStem INside | 软件与技术分享](https://sysin.org/blog/vmware-workstation-17-unlocker/)
 
