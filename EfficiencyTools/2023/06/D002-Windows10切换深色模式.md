@@ -1,4 +1,4 @@
-# Windows10切换深色模式（黑色模式）
+# Windows10、Edge自动切换深色模式（黑色模式）
 
 [toc]
 
@@ -117,6 +117,24 @@
   ![](./images/002-windows-night-mode-open.png)
 
 4. 至此就可以了，看效果需要等待日落的时候。
+
+## Microsoft Edge如何开启夜间模式
+
+1. 打开Edge浏览器，打开一个新的标签页，输入地址`https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home?hl=zh-CN`。将会打开Edge浏览器的扩展
+
+  ![](./images/002-microsoft-edge-extensions-home.png)
+
+2. 在输入框中输入`Dark Reader`内容，并且按下【Enter】键
+
+  ![](./images/002-microsoft-edge-extensions-search.png)
+
+3. 在搜索的结果中，第一个应该就是我们的要找的插件，如果不是请对比下图，然后点击【获取】按钮
+
+  ![](./images/002-microsoft-edge-extensions-dark-reader-get.png)
+
+4. 在弹出的对话中，点击【添加扩展】按钮，等待一会儿就完成了。然后找一个页面就会看到效果啦。
+
+  ![](./images/002-microsoft-edge-extensions-dark-reader-confirm-get.png)
 
 ## 软件获取
 
