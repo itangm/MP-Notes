@@ -2,6 +2,10 @@
 
 ## 简单的了解
 
+[toc]
+
+![](./images/01-VMware-website.png)
+
 `VMware`是一家位于美国的软件公司，成立于1998年，这家公司的名字来源于它的核心产品————“虚拟化软件”（Virutal Machine Sofware）。
 
 我们需要知道的是，使用VMware的前提必须电脑配置过得去，不然运行VMware会让你回到2010年代前。
