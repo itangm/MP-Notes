@@ -1,5 +1,7 @@
 # VMware Player的下载与安装
 
+[toc]
+
 ## 简介
 
 `VMware Workstation Player`是`VMware`公司退出的一款简易虚拟机软件，是`VMware Workstation`的免费版，功能较`VMware Workstation Pro`简单，可免费用于个人非商业用途。
@@ -26,7 +28,7 @@
 
 下面开始介绍完整的安装过程。
 
-1. 双击安装程序``
+1. 双击安装程序
 
   ![](./images/02-vmware-workstation-player-install-start.png)
 
@@ -62,4 +64,4 @@
 
   ![](./images/02-vmware-workstation-player-install-finish.png)
 
-到此安装结束。VMware Workstation 17 Player是可以免费使用的，所以不需要输入序列号。
+到此安装结束。`VMware Workstation 17 Player`是可以免费使用的，所以不需要输入序列号。
