@@ -72,6 +72,23 @@
 
 安装完成后，`Node.js`会默认将可执行文件添加到环境变量`PATH`中，可以在终端中直接使用。
 
+## 全局安装位置和缓存位置
+
+默认在用户Home目录或安装目录，如果这个目录的磁盘空间不是很多的话，需要设置下两个参数：全局安装位置和缓存位置。
+
+* 缓存位置
+
+  ```bash
+  npm config set prefix "/data/node_global"
+  ```
+
+* 全局安装位置
+
+  ```bash
+  npm config set cache "/data/node_cache"
+  ```
+
+
 ## 针对国内的优化
 
 ### 镜像源
