@@ -1,4 +1,4 @@
-# Spring Boot启动时加载外部依赖、JAR、配置文件
+# Spring Boot启动时加载指定外部依赖、JAR、配置文件
 
 [toc]
 
