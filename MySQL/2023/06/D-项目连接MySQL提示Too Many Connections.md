@@ -19,6 +19,12 @@ java.sql.SQLNonTransientConnectionException: Too many connections
 
 MySQL8允许客户端并发连接最大值为151，一旦服务变多了之后这个很容易超出，一般将该参数设置为500-1000之间，当然如果你的服务器性能很好，可以往上调整。
 
+我们可以通过下面的命令查询当前MySQL服务器的最大并发连接数是多少：
+
+```sh
+show variables like 'max_connections';
+```
+
 ## 更改配置
 
 如果是通过`yum`此类的按照，那么MySQL的配置文件在`/etc/my.cnf`，如果是Docker部署的，记得把这个配置文件映射出来。
